@@ -1,0 +1,224 @@
+*{
+    margin:0px ;
+    padding: 0px;
+    
+}
+ .main{
+    width: 100%;
+    height: 300px;
+    background-color: rgb(240, 216, 220);
+    margin: 0px;
+    
+}
+.flow{
+    font-size: x-small;
+    width: 5px;
+    height: 5px;
+    margin-top: 25px;
+}
+.pink{
+    height: 25px;
+    width: 80px;
+
+}
+.items{
+    display: flex;
+    justify-content: space-around;
+}
+.two{
+    display: flex;
+    margin-top: 25px;
+   
+}
+.home{
+    background-color: rgb(109, 7, 7);
+    width: 50px;
+    height: 25px;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+.vid{
+    height: 25px;
+    width: 55px;
+}
+.three{
+    display: flex;
+    border:2px solid white;
+    background-color: white;
+    height: 28px;
+    width: 270px;
+    margin: auto;
+    border-radius: 10px;
+    align-items: center;
+    margin-top: 120px;
+    position: absolute;
+    margin-left: 500px;
+    
+} 
+.free{
+    
+    border: 0px;
+}
+#icon{
+     border: 1px solid rgb(145, 99, 99);
+     width: 50px;
+     border: 0px;
+     margin-top: 4px;
+     margin-left: 1px;
+    
+}
+.big{
+    height: 170px;
+    width: 190px;
+    margin: auto;
+    position: absolute;
+    margin-left: 25px;
+    left: 0px;
+    z-index: -;
+}
+.all{
+    margin: auto;
+}
+.one{
+    width: 60px;
+    height: 30px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    margin-right: 80px;
+}
+.five{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+    justify-content: center;
+
+}
+.flex{
+    display: flex;
+    
+}
+.vid{
+    margin-right: 30px;
+}
+.lead{
+    margin-right: 30px;
+}
+.game{
+    margin-right: 30px;
+}
+.trend{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+#down{
+    width: 80px;
+    height: 25px;
+    border: 1px solid red;
+    border-radius: 5px;
+}
+.black{
+    width: 100%;
+    height: 300px;
+    background-color: black;
+    margin-top: 50px;
+}
+.see{
+    color: white;
+    margin-top: 50px;
+    position: absolute;
+}
+.control{
+    display: flex;
+    margin-top: 140px;
+}
+.join{
+    border: 2px solid white;
+    height: 30px;
+    background-color: white;
+    border-radius: 23px;
+    position:absolute;
+}
+.room{
+    display: flex;
+    color: white;
+    margin-top: 60px;
+    margin-right: 20px;
+}
+h5{
+    color: white;
+    float: right;
+    margin-top: 45px;
+    
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    
+}           
+.area{
+    float: right;
+    margin-left: 200px;
+    float: right;
+}
+.new{
+    margin-right: 50px;
+    float: left;
+}
+.column{
+    display: inline-block;
+    float: right;
+    margin-top: 100px;
+}
+.tall{
+    width: 250px;
+    height: 400px;
+    margin-right: 15px;
+}
+.small{
+    width: 200px;
+    height: 191px;
+}
+.smaller{
+    width: 200px;
+    height: 191px;
+    margin-top: 14px;
+}
+.last{
+    width: 250px;
+    height: 400px;
+    margin-left: 15px;
+}
+ .box{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    margin-top: 50px;
+
+}
+.follow{
+    display: inline-block;
+}
+.top{
+    display: block;
+    margin-right: 15px;
+}
+.combine{
+    display: flex;
+    justify-content: center;
+    margin-top: 15px;
+}
+.middle{
+    margin-right: 15px;
+}
+
+
+
+
+
+
+
+
+    
+
